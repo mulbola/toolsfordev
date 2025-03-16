@@ -1,0 +1,24 @@
+# common
+.DS_Store
+*.log
+.env
+.env.*
+.idea
+
+# frontend
+/frontend/.idea
+/frontend/.vscode
+/frontend/node_modules
+/frontend/dist
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# backend
+/backend/.gradle
+/backend/build/
+/backend/.idea
+/backend/*.iws
+/backend/*.iml
+/backend/*.ipr
+/backend/out/
